@@ -25,3 +25,6 @@ Copy the following CDN links into the head:
 ```
 
 #### Warning, since the files are not actually placed at the root of the actual page, IE6 might have errors 🙄.
+
+# S3
+These files are stored on S3 as a public CDN.
