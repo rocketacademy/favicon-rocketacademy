@@ -8,7 +8,7 @@ https://realfavicongenerator.net/
 # Instructions
 Copy the following HTML code into the `head` tag of the page.
 
-Copy the xml and manifest files into the *root* of the page / site.
+Copy the xml and manifest files into the *root* of the page / site: [browserconfig.xml](https://github.com/rocketacademy/favicon-rocketacademy/blob/main/assets/browserconfig.xml) [site.webmanifest](https://github.com/rocketacademy/favicon-rocketacademy/blob/main/assets/site.webmanifest)
 
 Copy the following CDN links into the head:
 ```html
